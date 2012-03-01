@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Dependencies: deployment.producer.jar
+
+
+
+
+
+
